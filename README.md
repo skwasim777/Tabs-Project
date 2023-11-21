@@ -31,3 +31,7 @@ If you would like to contribute to this project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with descriptive commit messages.
 4. Submit a pull request.
+
+## Screenshots
+
+![App Screenshot 1](Screenshot%20(195).png)
