@@ -18,10 +18,8 @@ To view the Tabs Project, follow these steps:
 2. Clicking on each button will reveal the corresponding content associated with that step.
 3. The content is visually highlighted, and the button for the active step is differentiated by a different background color.
 
-
 ## Customization
 Feel free to customize the project according to your needs. You can modify the content, styles, or add more steps/buttons as required.
-
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
